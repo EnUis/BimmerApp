@@ -1,17 +1,30 @@
-!!ATTENTION!!
+---
 
-Android
+## 🚨 Attention! 🚨
 
-IF BIMMERCODE DOENST WORK ITS IT WILL WORK WITH ANDROID11
+### Android Users:
+If **BimmerCode** isn’t working, try using a device running **Android 11** — it should work without issues.
 
-TUTORIAL FOR IOS
+---
 
-!!IMPORTANT U NEED TO HAVE A PC!!
-1.INSTALL SIDELOADLY,ITUNES,ICLOUD
-2.OPEN SIDELOAD
-3.PLUG UR IPHONE TO UR PC 
-4.CLICK TRUST IN UR PHONE
-4.DRAG THE IPA FILE TO SIDELOAD ADD UR APPLE ID THEN UR PASS ITS 100% DONT WORRY 
-5.HIT START
-6.GO TO SETTINGS/GENERAL/VPN@DEVICE MANAGER CLICK ON UR APPLE ID IF U SEE HIT TRUST/RESTART
-7.ALL DONE
+### 📱 iOS Tutorial
+
+> **Important:** You’ll need access to a **PC** for this method.
+
+#### Steps:
+1. Install **Sideloadly**, **iTunes**, and **iCloud** on your PC.
+2. Open **Sideloadly**.
+3. Connect your iPhone to your PC using a USB cable.
+4. On your iPhone, tap **“Trust This Device”** when prompted.
+5. Drag the `.ipa` file into Sideloadly.
+6. Enter your **Apple ID** and **password** — it’s safe, don’t worry.
+7. Click **Start** to begin the sideloading process.
+8. Once it’s done, go to:
+   - `Settings > General > VPN & Device Management`
+   - Tap on your **Apple ID profile**
+   - Hit **Trust**
+9. Restart your device.
+
+✅ That’s it — you’re all set!
+
+---
