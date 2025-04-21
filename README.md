@@ -28,3 +28,8 @@ If **BimmerCode** isn’t working, try using a device running **Android 11** —
 ✅ That’s it — you’re all set!
 
 ---
+
+**If you have any questions, feel free to reach out!**  
+You can add me on Discord: `EnUis-#4926` — I’ll do my best to help you out.
+
+---
